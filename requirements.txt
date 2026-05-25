@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy
+matplotlib
+seaborn
+pyarrow
+# report generation packages removed
